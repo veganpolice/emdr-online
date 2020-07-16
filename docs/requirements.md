@@ -12,9 +12,9 @@
 - I can visit a webpage (eg, emdr-online.io) and click 'new session'
 - I am taken to a unique url (eg. emdr-online.io/zxy/control) which displays
     - The EMDR experience
-    - The EMDR controls
+    - The EMDR controls which affect the movement of the dot on the unqiue url
         - a button to start/stop the movement of the dot
-        - a slider and input field to control the speed of the black dot
+        - a slider and input field to control the speed of the dot
     - (stretch) a share button which provides options to send the unique url link to a patient
     - (stretch) an indication that another user (the patient) is viewing the page
 
