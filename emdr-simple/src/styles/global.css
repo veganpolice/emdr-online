@@ -1,12 +1,12 @@
 html {
-    background-color: black;
+    background-color: white;
 }
 
 .circle {
     border-radius: 50%;
     width: 100px;
     height: 100px;
-    background: white;
+    background: black;
     position: absolute;
     left: 0;
     display: block;
