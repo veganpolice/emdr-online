@@ -6,10 +6,10 @@ function Speed(){
       <div>
       <div className="circle" style={{animation: `ani ${count}s infinite`}}></div>
       <p>Speed is {count}</p>
-      <button onClick={() => setCount(count + 1)}>
+      <button onClick={() => setCount(count * 2)}>
       Slower
     </button>
-    <button onClick={() => setCount(count - 1)}>
+    <button onClick={() => setCount(count / 2)}>
       Faster
     </button>
   </div>
