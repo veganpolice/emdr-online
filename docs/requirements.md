@@ -6,7 +6,7 @@ As a patient
     - a black screen with a coloured dot in the center
     - the coloured dot moves from one side of the screen to the other, at varying speeds
 
-![](/assets/emdr-example.gif)
+![](./emdr-example.gif)
 
 As a therapist 
 - I can visit a webpage (eg, emdr-online.com) and click 'new session'
@@ -18,4 +18,4 @@ As a therapist
     - (stretch) a share button which provides options to send the unique url link to a patient
     - (stretch) an indication that another user (the patient) is viewing the page
 
-![](/assets/emdr-example-control.png)
+![](./emdr-example-control.png)
