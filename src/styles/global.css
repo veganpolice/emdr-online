@@ -1,11 +1,16 @@
+html {
+  background-color: black;
+}
+
 .circle {
   position: absolute;
   left: 0;
-  background-color: red;
+  background-color: coral;
   width: 80px;
   height: 80px;
   display: block;
-	top: 100px;
+  top: 100px;
+  radius: 50%;
 }
 
 
