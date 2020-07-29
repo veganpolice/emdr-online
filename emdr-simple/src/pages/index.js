@@ -1,5 +1,7 @@
-import React from "react"
+import React from "react";
+import ReactDOM from "react-dom";
 
-export default function Home() {
-  return <div class="circle one-point-five"></div>
-}
+import App from "../App";
+
+const rootElement = document.getElementById("root");
+ReactDOM.render(<App />, rootElement);
