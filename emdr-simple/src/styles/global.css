@@ -1,31 +1,22 @@
-html {
-    background-color: white;
+.circle {
+  position: absolute;
+  left: 0;
+  background-color: red;
+  width: 80px;
+  height: 80px;
+  display: block;
+	top: 100px;
 }
 
-.circle {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    background: black;
-    position: absolute;
+
+@keyframes ani {
+  0% {
     left: 0;
-    display: block;
-      top: 0;
-    animation-timing-function: ease;
-    }
-.one-point-five {
-    animation: ani 1.5s infinite;
-}
-  
-  @keyframes ani {
-    0% {
-      left: 10%;
-    }
-    50% {
-      left: 80%;
-    }
-    100% {
-      left: 10%;
-    }
   }
-  
+  50% {
+    left: 720px;
+  }
+  100% {
+    left: 0;
+  }
+}
